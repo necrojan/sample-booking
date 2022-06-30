@@ -4,7 +4,9 @@ A simple app for bookings,
 
 ### Installation
 
-This is being run in Laravel valet for easy installation.
+This is being run in Laravel valet for easy installation. This is only a basic app and it's only used
+for testing purposes.
+
 ```
 
 git clone https://github.com/necrojan/sample-booking
